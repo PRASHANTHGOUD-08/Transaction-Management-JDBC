@@ -4,7 +4,7 @@ import java.sql.*;
 class JDBC {
     String url = "jdbc:mysql://localhost:3306/MyDatabase";
     String user = "root";
-    String password = "root";
+    String password = "...";
     Scanner in = new Scanner(System.in);
 
     Connection getConnection() throws SQLException {
