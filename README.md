@@ -58,4 +58,12 @@ Add screenshots showing:
 
 ## 👨‍💻 Author
 Yedula Prashanth Goud
+## 📸 Output Screenshots
+
+### ✅ Successful Transaction
+![Successful Transaction](successful-transaction.png)
+
+### ❌ Failed Transaction
+![Failed Transaction](failed-transaction.png)
+
 
